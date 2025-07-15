@@ -29,7 +29,8 @@ A sleek, responsive, and animated personal portfolio website that showcases your
 ---
 ## 👀 Portfolio Preview For Mobile
 
-<img width="702" height="1227" alt="image" src="https://github.com/user-attachments/assets/6b592904-3dae-42cd-9d8d-3cfb114a391c" />
+<img width="702" height="1227" alt="image" src="https://github.com/user-attachments/assets/d8db0b04-18f1-4020-b2c9-c2fea1f11e3d" />
+
 
 
 ---
