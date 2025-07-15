@@ -11,7 +11,9 @@ A sleek, responsive, and animated personal portfolio website that showcases your
 ---
 
 ## 👀 HOME Preview For Deskitop
-<img width="2545" height="1396" alt="image" src="https://github.com/user-attachments/assets/328f64a2-0a19-4141-8289-fec9d1eeb2f1" />
+
+<img width="2554" height="1402" alt="image" src="https://github.com/user-attachments/assets/213cd5ce-1c61-4531-857b-5f5a8a1d9ae0" />
+
 
 ---
 
